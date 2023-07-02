@@ -1,10 +1,9 @@
-# Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning
+# Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning for LLM
 
-This paper can be found [here](http://proceedings.mlr.press/v139/fraboni21a.html).
 
 ## Download the dependencies
 
-This work is done using PyTorch 1.4.0 .
+This work is done using Flwr
 
 
 ## Datasets
